@@ -23,7 +23,7 @@ This exercise focuses on strategies for working with existing code bases and ens
    Keep the README file updated along with the newly added lines of code. Write simple but useful comments when necessary. HTML documentation can also be used.
 
 ### 3. **Balancing Flexibility and Stability**    
-\ How would you design or refactor the software to make it flexible for future changes while ensuring the existing functionality remains stable?  
+- How would you design or refactor the software to make it flexible for future changes while ensuring the existing functionality remains stable?  
 
    Separate the code into different modules to only modify some parts of the code without editing all the code. We can use well-defined APIs/interfaces to limit the dependencies between the different modules.
 
