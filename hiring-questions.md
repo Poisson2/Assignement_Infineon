@@ -20,7 +20,7 @@
    - Yes 
 
 6. **In case you are not available during the full period, what would be the preferable period?**  
-   -
+   - N/A
 
 7. **Are you a European citizen?**  
    > If not, please be aware that the hiring process might take up to 2 months due to work permit and Visa application processes.  
